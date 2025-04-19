@@ -1,0 +1,12 @@
+# robots.txt for yeole.in
+
+# Allow all bots to crawl the site
+User-agent: *
+Disallow: /admin/  # Don't index admin pages
+Disallow: /static/  # Don't index static content
+Disallow: /media/  # Don't index media files
+
+# Sitemap location (search engines can find your sitemap here)
+Sitemap: https://yeole.in/sitemap.xml
+
+

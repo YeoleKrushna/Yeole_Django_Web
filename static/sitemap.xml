@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Home page -->
+    <url>
+        <loc>https://yeole.in/</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>1.00</priority>
+    </url>
+
+    <!-- About section -->
+    <url>
+        <loc>https://yeole.in/#about</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Services section -->
+    <url>
+        <loc>https://yeole.in/#services</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.80</priority>
+    </url>
+
+    <!-- Packages section -->
+    <url>
+        <loc>https://yeole.in/#packages</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Contact section -->
+    <url>
+        <loc>https://yeole.in/#contact</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Work page -->
+    <url>
+        <loc>https://yeole.in/work/</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.85</priority>
+    </url>
+
+    <!-- Logo Design work -->
+    <url>
+        <loc>https://yeole.in/work/#logo-design</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Web Development work -->
+    <url>
+        <loc>https://yeole.in/work/#web-dev</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.75</priority>
+    </url>
+
+    <!-- Video Editing work -->
+    <url>
+        <loc>https://yeole.in/work/#video-editing</loc>
+        <lastmod>2025-04-19</lastmod>
+        <priority>0.75</priority>
+    </url>
+
+</urlset>
