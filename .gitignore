@@ -1,0 +1,19 @@
+# Ignore the .env file
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django specific
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Migrations (optional, if you're recreating often)
+*/migrations/__pycache__/
