@@ -9,4 +9,3 @@ Disallow: /media/  # Don't index media files
 # Sitemap location (search engines can find your sitemap here)
 Sitemap: https://yeole.in/sitemap.xml
 
-
