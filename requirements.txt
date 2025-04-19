@@ -1,0 +1,7 @@
+Django>=4.2,<5.0
+whitenoise
+psycopg2-binary
+requests
+python-dotenv
+Gunicorn==20.1.0
+Werkzeug==2.2.2
