@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-q!rykrz@^!$zmr*9f@c9%=%56n7^#u@5$*1w-%4j3rwd9algli
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['yeole-django-web.onrender.com', 'yeole.in', 'www.yeole.in','https://yeole.in']
+ALLOWED_HOSTS = ['yeole-django-web.onrender.com', 'yeole.in', 'www.yeole.in','https://yeole.in','127.0.0.1']
 
 
 
