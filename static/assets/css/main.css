@@ -2089,13 +2089,12 @@ section,
 .custom-video {
   width: 100%;
   height: 75%;
-  margin-left: -200px;
+  margin-left: -100px;
   margin-top: 70px;
   object-fit: cover;
   border-radius: 10px;
 }
 
-/* Tablet */
 @media screen and (max-width: 1024px) {
   .custom-video {
     margin-left: 0;
@@ -2113,6 +2112,8 @@ section,
     object-fit: contain;
   }
 }
+
+
 
 
  
